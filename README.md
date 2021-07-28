@@ -136,7 +136,6 @@ Based on the [Project Gutenberg](http://www.gutenberg.org/ebooks/2701) [Plain Te
 
 
 
------
 +++++++++
 
 [1]: https://www.gitkraken.com/learn/git/tutorials/what-is-git-clone?utm_source=learn%20gi[…]20tutorial%20link&utm_campaign=git%20clone%20practice%20repo
